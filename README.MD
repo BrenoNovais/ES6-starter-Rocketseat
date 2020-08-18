@@ -6,9 +6,7 @@
   <img src="./images-readme/ex1-1.png">
 </p>
 <br>
-<p align="center">
-  <img src=".\images-readme/ex1-2-a.png">
-</p>
+
 <br>
 <p align="center">
   <img src="./images-readme/ex1-2-b.png">
