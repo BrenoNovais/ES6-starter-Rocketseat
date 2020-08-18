@@ -37,7 +37,7 @@
   <img src="./images-readme/ex1-7-a.png">
 </p>
 <p align="center">
-  <img src="./images-readme/ex1-7b.png">
+  <img src="./images-readme/ex1-7-b.png">
 </p>
 
 --- 
