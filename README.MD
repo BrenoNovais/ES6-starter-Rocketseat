@@ -5,9 +5,9 @@
 <p align="center">
   <img src="./images-readme/ex1-1.png">
 </p>
-<br>
-<p align="center">
-  <img src=".\images-readme/ex1-2-a.png">
+
+<br><p align="center">
+  <img src="./images-readme/ex1-2-a.png">
 </p>
 <br>
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
 <br>
 <p align="center">
-  <img src="images-readme/ex1-3-a.png">
+  <img src="./images-readme/ex1-3-a.png">
 </p>
 <br>
 <p align="center">
