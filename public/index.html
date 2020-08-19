@@ -3,8 +3,41 @@
     <Head>
         <meta charset="UTF-8">
         <title>Curso ES6+ </title>
+
+        <style>
+            ul {
+                list-style: none;
+                margin: 0;
+                padding: 0;
+                font-family: sans-serif;
+
+            }
+        </style>
     </Head>
     <body>
+
+        <form id="repo-form">
+            <input type="text" name="repository">
+            <button type="submit">Adicionar</button>
+        </form>
+
+        <ul id="repo-list">
+            <li>
+            <img src="https://avatars3.githubusercontent.com/u/69590972?s=200&v=4"/>
+            <strong>rocketseat.com.br</strong>
+            <p>Tire a sua ideia do papel e dê vida à sua statup.</p>
+            <a target="_blank" href="https://github.com/brenono/Javascript-starter-Rocketseat">
+            Acessar</a>
+
+            <li>
+                <img src="https://avatars3.githubusercontent.com/u/69590972?s=200&v=4"/>
+                <strong>rocketseat.com.br</strong>
+                <p>Tire a sua ideia do papel e dê vida à sua statup.</p>
+                <a target="_blank" href="https://github.com/brenono/Javascript-starter-Rocketseat">
+                Acessar</a>
+            </li>
+        </ul>
+
         <button id="novotodo">Adicionar</button>
         <script src="./bundle.js">
 
