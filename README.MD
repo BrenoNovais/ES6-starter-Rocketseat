@@ -49,3 +49,15 @@
   <img src="./images-readme/ex2.png">
 </p>
 <br>
+
+## Modulo 3
+<br>
+<p align="center">
+  <img src="./images-readme/ex3-b.png">
+</p>
+<br>
+<p align="center">
+  <img src="./images-readme/ex3-c.png">
+</p>
+<br>
+

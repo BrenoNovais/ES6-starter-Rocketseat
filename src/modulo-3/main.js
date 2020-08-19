@@ -49,6 +49,8 @@ Github.getRepositories('rocketseat/dslkvmskv');
         
     }catch(err) {
     console.log('Usuário não existe');
+
     }
+    
    }
    buscaUsuario('diego3g');

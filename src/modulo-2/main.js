@@ -18,4 +18,5 @@ class Api {
 }
 
 Api.getUserInfo('brenono')
+
 Api.getUserInfo('brenono')
