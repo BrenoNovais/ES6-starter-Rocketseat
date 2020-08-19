@@ -43,6 +43,7 @@
 --- 
                                       
 ## Modulo 2
+## /src/modulo-2
 
 <br>
 <p align="center">
@@ -51,6 +52,7 @@
 <br>
 
 ## Modulo 3
+## /src/modulo-3
 <br>
 <p align="center">
   <img src="./images-readme/ex3-b.png">
